@@ -42,12 +42,6 @@ Zamiast płacić za API od tokena, bierzemy stałe subskrypcje i podpinamy je po
 | **Mistral (Le Chat Pro)** | Europejski dostawca, bardzo dobry stosunek ceny do możliwości, w pakiecie Vibe. | [mistral.ai/pricing](https://mistral.ai/pricing) |
 | **ChatGPT (Plus / Pro)** | W pakiecie Codex, przydaje się jako drugi agent do review. | [chatgpt.com/pricing](https://chatgpt.com/pricing) |
 
-## 🛠️ Nasze open-source'owe drobiazgi
-
-- [llm-design-engine](https://github.com/llmpolska/llm-design-engine): dyrektor kreatywny i „kompilator designu” dla agentów
-- [codex-clamshell](https://github.com/llmpolska/codex-clamshell): Codex pracuje na MacBooku z zamkniętą klapą
-- [oh-my-dsh](https://github.com/llmpolska/oh-my-dsh): routing modeli dla DeepSeek Harness
-
 ---
 
 Masz pytanie albo chcesz coś dorzucić? Otwórz issue albo napisz do nas na [X @llmpolska](https://x.com/llmpolska).
